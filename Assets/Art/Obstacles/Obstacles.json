@@ -1,0 +1,30 @@
+{
+
+"images": [
+    "Obstacles.png"
+],
+
+"framerate": 20,
+"frames": [
+    [0, 0, 32, 32, 0, 16, 16],
+    [32, 0, 32, 32, 0, 16, 16],
+    [64, 0, 32, 32, 0, 16, 16],
+    [96, 0, 32, 32, 0, 16, 16],
+    [0, 32, 32, 32, 0, 16, 16],
+    [32, 32, 32, 32, 0, 16, 16],
+    [64, 32, 32, 32, 0, 16, 16],
+    [96, 32, 32, 32, 0, 16, 16],
+    [0, 64, 32, 32, 0, 16, 16],
+    [32, 64, 32, 32, 0, 16, 16]
+],
+
+"animations": {
+    "Obstacles": { "frames": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9] }
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:abfb5555ab96d48ed709bd996ea64cc0:2e87224bc2fbd28d6ea6908d89885054:0168aa5acfabdeee50d636c9c6c28f87$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}
