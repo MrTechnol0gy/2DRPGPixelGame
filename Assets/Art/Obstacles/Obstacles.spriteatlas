@@ -37,8 +37,28 @@ SpriteAtlas:
     isAtlasV2: 0
     cachedData: {fileID: 0}
   m_MasterAtlas: {fileID: 0}
-  m_PackedSprites: []
-  m_PackedSpriteNamesToIndex: []
+  m_PackedSprites:
+  - {fileID: -1198325049, guid: 5e8977c904043834ab8494c433371644, type: 3}
+  - {fileID: 235984906, guid: 5e8977c904043834ab8494c433371644, type: 3}
+  - {fileID: 948229040, guid: 5e8977c904043834ab8494c433371644, type: 3}
+  - {fileID: -634513289, guid: 5e8977c904043834ab8494c433371644, type: 3}
+  - {fileID: -1807449313, guid: 5e8977c904043834ab8494c433371644, type: 3}
+  - {fileID: -1131148525, guid: 5e8977c904043834ab8494c433371644, type: 3}
+  - {fileID: -1633636574, guid: 5e8977c904043834ab8494c433371644, type: 3}
+  - {fileID: 675575160, guid: 5e8977c904043834ab8494c433371644, type: 3}
+  - {fileID: 851815971, guid: 5e8977c904043834ab8494c433371644, type: 3}
+  - {fileID: -879514730, guid: 5e8977c904043834ab8494c433371644, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Obstacles_8
+  - Obstacles_9
+  - Obstacles_6
+  - Obstacles_7
+  - Obstacles_4
+  - Obstacles_5
+  - Obstacles_2
+  - Obstacles_3
+  - Obstacles_0
+  - Obstacles_1
   m_RenderDataMap: {}
   m_Tag: Obstacles
   m_IsVariant: 0
