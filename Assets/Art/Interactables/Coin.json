@@ -1,0 +1,67 @@
+{
+
+"images": [
+    "Coin.png"
+],
+
+"framerate": 30,
+"frames": [
+    [0, 0, 32, 32, 0, 16, 16],
+    [0, 0, 32, 32, 0, 16, 16],
+    [0, 0, 32, 32, 0, 16, 16],
+    [32, 0, 32, 32, 0, 16, 16],
+    [32, 0, 32, 32, 0, 16, 16],
+    [32, 0, 32, 32, 0, 16, 16],
+    [0, 32, 32, 32, 0, 16, 16],
+    [0, 32, 32, 32, 0, 16, 16],
+    [0, 32, 32, 32, 0, 16, 16],
+    [0, 32, 32, 32, 0, 16, 16],
+    [0, 32, 32, 32, 0, 16, 16],
+    [0, 32, 32, 32, 0, 16, 16],
+    [32, 32, 32, 32, 0, 16, 16],
+    [32, 32, 32, 32, 0, 16, 16],
+    [32, 32, 32, 32, 0, 16, 16],
+    [0, 64, 32, 32, 0, 16, 16],
+    [0, 64, 32, 32, 0, 16, 16],
+    [0, 64, 32, 32, 0, 16, 16],
+    [32, 64, 32, 32, 0, 16, 16],
+    [32, 64, 32, 32, 0, 16, 16],
+    [32, 64, 32, 32, 0, 16, 16],
+    [32, 64, 32, 32, 0, 16, 16],
+    [32, 64, 32, 32, 0, 16, 16],
+    [32, 64, 32, 32, 0, 16, 16]
+],
+
+"animations": {
+    "Interactables1": { "frames": [0] },
+    "Interactables2": { "frames": [1] },
+    "Interactables3": { "frames": [2] },
+    "Interactables4": { "frames": [3] },
+    "Interactables5": { "frames": [4] },
+    "Interactables6": { "frames": [5] },
+    "Interactables10": { "frames": [6] },
+    "Interactables11": { "frames": [7] },
+    "Interactables12": { "frames": [8] },
+    "Interactables22": { "frames": [9] },
+    "Interactables23": { "frames": [10] },
+    "Interactables24": { "frames": [11] },
+    "Interactables13": { "frames": [12] },
+    "Interactables14": { "frames": [13] },
+    "Interactables15": { "frames": [14] },
+    "Interactables16": { "frames": [15] },
+    "Interactables17": { "frames": [16] },
+    "Interactables18": { "frames": [17] },
+    "Interactables19": { "frames": [18] },
+    "Interactables20": { "frames": [19] },
+    "Interactables21": { "frames": [20] },
+    "Interactables7": { "frames": [21] },
+    "Interactables8": { "frames": [22] },
+    "Interactables9": { "frames": [23] }
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:877fbe70bbf0b4874f1ca82e56d2ae95:d85ea79c7e40b9dbe257600575c1db93:498b35e71de7b9b1647de5e83c57165b$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}
